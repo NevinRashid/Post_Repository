@@ -5,7 +5,6 @@
 This is a simple Laravel project that implements a RESTful API for managing blog posts using the Repository Pattern for clean and maintainable code architecture.
 
 ## 🎯 Purpose of Using the Repository Pattern
-## 🎯 Why We Use the Repository Pattern
 
 In this project, the Repository Pattern is used to organize the code and make it easier to maintain, test, and scale.
 Instead of writing database logic directly inside controllers or services, we move it into dedicated repository classes. This helps separate concerns:
